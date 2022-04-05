@@ -46,3 +46,9 @@ truffle-config.js --> Config file for contracts in blockchain
 └── utils
     └── loadContract.js
 ```
+
+---
+
+# Notes
+
+-   [Definition of transaction](./docs/DefinitionTx.md)
